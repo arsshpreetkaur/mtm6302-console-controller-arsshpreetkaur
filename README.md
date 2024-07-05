@@ -19,3 +19,8 @@ Step 4: Use Command.
 3. git push origin main.
 
 ![image](https://github.com/arsshpreetkaur/mtm6302-console-controller-arsshpreetkaur/assets/133889383/7732b62d-147b-4ab1-ba1e-0169d1c4a98a)
+
+
+Output!
+
+![image](https://github.com/arsshpreetkaur/mtm6302-console-controller-arsshpreetkaur/assets/133889383/1a18bbcc-a7fa-4ba1-9d54-81937299e913)
